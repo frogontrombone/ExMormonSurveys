@@ -1,0 +1,22 @@
+How likely is it that an ex-mo will end up divorced?
+	Maybe break up by demographics?
+	Break up by whether spouse left as well
+	
+How far exmos land from church
+	Current relationship
+	
+Create a profile and see how it works
+
+Run correlation to see which variables I can collapse
+	
+Variables to use somehow 
+	Convert vs. BIC vs. reactivated
+	Calling - convert into linear scale
+	
+	
+why left vs. what would make you come back / or some other measure of how likely to come back
+
+How does why you left affect how likely you would be willing to come back?
+
+
+In future interation of the survey, I need to add "District President" and simplify "secretary/clerk entry" to potential callings.
